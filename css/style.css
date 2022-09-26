@@ -1,0 +1,369 @@
+.navimg{
+    background-image: url('../img/bgimg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background-attachment: fixed; */
+    max-width: 100%;
+    height: auto;
+}
+
+*{
+    list-style: none;
+    text-decoration: none;
+   
+   
+}
+
+
+
+.navmenu{
+    font-size: 30px;
+}
+
+.bgimage{
+
+    background-image: url('../img/bgimg.jpg');
+    width: 100%;
+}
+.h1cash{
+    font-size: 60px;
+}
+
+.pra{
+    font-size: 24px;
+}
+
+.btn11{
+    width: 200px;
+    
+}
+
+.wrap2{
+    background-image: url('../img/wrap2bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+   /*  background-position: center; */
+    background-attachment: fixed;
+    
+    
+
+    /* max-width: 100%; */
+    text-align: center;
+    /* height: 650px; */
+}
+
+.wrap2 h3{
+     color: red;
+     font-size: 20px;
+}
+
+.wrap2 h2{ color: red; font-size: 60px;}
+.wrap2 p{ color: red; font-size: 17px;}
+
+.card-img-top{
+
+    border: 1px solid  white !important;
+
+    border-radius: 50% !important;
+}
+
+
+
+
+@media only screen and (max-width:920px){
+
+    .card-img-top{
+
+        border: 1px solid  white !important;
+    
+        border-radius: 50% !important;
+    }
+    
+
+    .imagefl img{
+
+        margin-right: 30px;
+
+        padding:  50px;
+
+        width: auto;
+    }
+
+    
+
+
+}
+
+
+
+@media only screen and (max-width:768px){
+
+    .card-img-top{
+
+        border: 1px solid  white !important;
+    
+        border-radius: 50% !important;
+    }
+    
+
+    .imagefl img{
+
+        margin-right: 30px;
+          
+
+        width: auto;
+    }
+
+
+}
+
+
+.wrap3{
+    background-color: #f6483c;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+
+    
+}
+
+.wrap3 img{
+    border:1px solid #f6483c !important;
+    border-radius: 50% !important;
+}
+
+.wrap3 h2{
+    font-size: 58px;
+}
+
+
+.wrap3 p{
+    font-size: 30px;
+}
+
+
+
+/* 
+Responsive wrap3 */
+
+@media only screen and (max-width:768px){
+
+
+    .wrap3 h2{
+        font-size: 42px;
+        text-align: center !important;
+    }
+    .wrap3 p{
+        font-size: 18px;
+    }
+    
+
+
+
+
+}
+
+
+@media only screen and (max-width:764px){
+
+
+    .wrap3 h2{
+        font-size: 53px;
+        text-align: center !important;
+    }
+    .wrap3 p{
+        font-size: 22px;
+    }
+
+}
+
+@media only screen and (max-width:425px){
+
+    .wrap3 h2{
+
+        text-align: center !important;
+
+        
+        
+    }
+    .wrap3 p{
+    padding: 10px;
+        
+    }
+}
+
+.circ {
+   border: 3px solid  #f6483c;
+   border-radius: 50%;
+
+       
+    
+    
+    width: 270px;
+    height: 290px;
+    
+  
+}
+
+.wrap5{
+    background-image: url('../img/wrap2bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    margin: 10px;
+
+
+}
+
+.wrap5 h3{
+
+    color:  #f6483c;
+
+    font-size: 75px;
+
+    padding: 20px;
+
+
+}
+
+.wrap5 h4{
+
+    color: #f6483c;
+    font-size: 43px;
+    padding: 20px;
+}
+
+@media only screen and (max-width:920px){
+    .wrap5 h4{
+
+        
+        font-size: 30px;
+        
+    }
+}
+
+@media only screen and (max-width:768px){
+
+    .wrap5 h4{
+
+        
+        font-size: 30px;
+        
+    }
+
+
+    .mobpad{
+
+        
+        padding: 0px;
+        
+        
+    }
+
+    
+
+
+    
+    
+
+
+
+
+}
+
+@media only screen and (max-width:425px){
+
+    .mobpad{
+
+        
+        padding: 40px;
+        
+        
+    }
+
+
+    
+    
+
+
+
+
+}
+
+
+
+/* Wrap 6 */
+
+.wrap6{
+
+    background-image: url('../img/lastbg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+
+}
+
+.wrap6 h5{
+    font-size: 40px;
+}
+
+.wrap6 p{
+    font-size: 1.3rem;
+}
+
+.bgcolor{
+    background-color: #f3614f;
+}
+
+
+
+/* Footer */
+
+.footer1{
+    color: white;
+    background-color: #222222;
+    height: auto;
+}
+
+.footer1 h4{
+    font-size: 50px;
+    color: white;
+}
+
+.footer1 span{
+    font-size: 25px;
+    margin: 8px;
+}
+
+
+
+      
+
+/* experiment */
+
+.height1{
+    height: 200px  !important;
+}
+
+
+
+@media only screen and (max-width:768px){
+    .footer1 h4 {font-size: 34px;}
+
+    .footer1 h5{
+        font-size:12px;
+    }
+    .footer1 span{
+        font-size: 16px;
+        
+    }
+
+
+
+    
+}
